@@ -1,0 +1,5 @@
+这里仅仅作为github仓库的测试
+在github仓库同样建立了reflections仓库
+将本计算机的reflections文件夹里的文件更新后
+用master分支
+查看github仓库的是否能够同步这些变化
