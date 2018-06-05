@@ -1,1 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?  
+
+Fork 是将 github上的一个仓库复制到github另外一个人账号下的仓库里，一切都在github的服务器上面发生
+Clone 可以是将github上的某个仓库克隆到你的local上面，也可以是将local上的某个仓库克隆到你local上的另外一个地方
+分支 是在某个仓库里面创建另外一条线路来存储想要做的更改
